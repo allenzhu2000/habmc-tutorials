@@ -97,7 +97,7 @@ Now if you go to [http://localhost:3000/#tutorial_messages](http://localhost:300
 
 ## Link to it in the sidebar
 We also want to see it in the sidebar.
-We need to edit the massive config variable in app/assets/javascripts/components/habmc/layout/sidebar/sidebar.js.jsx.
+We need to edit the massive config variable in app/javascript/habmc/layout/sidebar/sidebar.js.jsx.
 Right under the thing that says `text: "Communications", heading: true`, add
 ```js
 {
